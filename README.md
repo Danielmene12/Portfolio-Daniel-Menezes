@@ -1,101 +1,99 @@
-# 👋 Olá, eu sou Daniel Menezes!
+# Olá, eu sou Daniel Menezes! 👋
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ESTUDANTE%20DE%20CC-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCALIZAÇÃO-SÃO%20PAULO,%20BRASIL-FF8C69?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/FOCO-BACK--END%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CIÊNCIA%20DA%20COMPUTAÇÃO-UNICID-00C2FF?style=for-the-badge"/>
 </p>
-
-💻 Ciência da Computação na UNICID  
-📩 Danielmenezes324@gmail.com
 
 <p align="center">
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  Estudante de Ciência da Computação | Desenvolvedor Back-End Python em formação
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-menezes-106b03321">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:danielmenezes324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 Sobre Mim
+## 💻 Sobre mim
 
-Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolvedor. Atualmente, foco em desenvolvimento de software, banco de dados e inteligência artificial.
+Estudante de Ciência da Computação na Universidade Cidade de São Paulo (UNICID), com foco em desenvolvimento Back-End utilizando Python.
 
-> "O maior problema do universo é que ninguém ajuda ninguém!"
+Atualmente, participo de um projeto de extensão universitária para a LigaBio, atuando como desenvolvedor em uma equipe multidisciplinar. No projeto, utilizo Python e Flask para o desenvolvimento de APIs.
 
----
+Tenho interesse em desenvolvimento de sistemas, construção de APIs REST, lógica de programação, bancos de dados e boas práticas de desenvolvimento de software.
 
-# 📫 Contato
-
-- 📧 Danielmenezes324@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/daniel-menezes-106b03321)
-- 📄 [Currículo PDF](LINK_DO_CURRICULO)
+Estou aprofundando meus conhecimentos em programação orientada a objetos e desenvolvimento Back-End.
 
 ---
 
-# 🛠 Toolbox (Minhas Ferramentas)
+## 🛠️ Tecnologias e ferramentas
 
-## 💻 Desenvolvimento & Linguagens
+### Linguagem de programação
 
-![HTML5](https://img.shields.io/badge/HTML5-FF8C69?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00E5FF?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-7FFFD4?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
----
+### Back-End
 
-## 🗄 Banco de Dados & Infra
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MYSQL-7FFFD4?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
+### Ferramentas de desenvolvimento
 
----
-
-## 🤖 Inteligência Artificial & No-Code
-
-![ChatGPT](https://img.shields.io/badge/CHATGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=black)
-![N8N](https://img.shields.io/badge/N8N-7FFFD4?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-## 🎨 Design & UI/UX
-
-![Photoshop](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-00E5FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/CANVA-7FFFD4?style=for-the-badge&logo=canva&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-# 📂 Portfólio de Projetos
+## 🚀 Experiência em desenvolvimento
 
-## 🗃 Modelagem de Banco de Dados
+### Projeto de Extensão – LigaBio
 
-| Projeto | Descrição | Link |
-|---|---|---|
-| Sistema de Gestão Escolar | Modelagem ER e Scripts SQL | [Ver Projeto](LINK_AQUI) |
+**Desenvolvedor Back-End | UNICID**
+
+Participação no desenvolvimento de uma plataforma para a Liga de Biologia (LigaBio), em uma equipe multidisciplinar de 10 integrantes.
+
+**Atividades desenvolvidas:**
+
+- Desenvolvimento Back-End utilizando Python.
+- Construção de APIs utilizando Flask.
+- Colaboração com uma equipe organizada em funções de QA, Product Owner, Scrum Master e Tech Lead.
+- Organização e acompanhamento de tarefas utilizando metodologias ágeis.
+- Versionamento e colaboração por meio de Git e GitHub.
+- Utilização de inteligência artificial como ferramenta de apoio ao desenvolvimento e análise de código.
+
+*Projeto em desenvolvimento.*
 
 ---
 
-## 🤖 Inteligência Artificial
-| Atividade | Descrição Técnica | Entrega | Status |
-| :--- | :--- | :---: | :--- |
-| **A corrida do prompt** | Engenharia de Instrução (Prompt Engineering)| 02\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/A_corrida_do_prompt.md) ✅ Concluído |
 
-| Atividade | Descrição Técnica | Entrega | Status |
-| :--- | :--- | :---: | :--- |
-| **Laboratório: Viés Algorítmico e Ética em IA** | Modelagem e visão computacional aplicada.| 09\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/Laborat%C3%B3rio_de_Classifica%C3%A7%C3%A3o_Visual.md) ✅ Concluído |
+## 📚 Atualmente estudando
 
- Atividade | Descrição Técnica | Entrega | Status |
-| :--- | :--- | :---: | :--- |
-| **Batalha de Modelos & Engenharia de Prompt (XML)** |Engenharia de Prompt estruturada com XML. | 23\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/Batalha_de_Modelos_%26_Engenharia_de_Prompt%20(XML).md) ✅ Concluído |
+- Programação Orientada a Objetos com Python.
+- Desenvolvimento de APIs REST com Flask.
+- Estruturação e organização de projetos Back-End.
+- Boas práticas de programação.
+- Integração de APIs com bancos de dados.
 
- Atividade | Descrição Técnica | Entrega | Status |
-| :--- | :--- | :---: | :--- |
-| **Engenharia Reversa** | Desconstrução e análise de arquiteturas de software.| 31\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/Engenharia_reversa.md) ✅ Concluído |
-
-
- Atividade | Descrição Técnica | Entrega | Status |
-| :--- | :--- | :---: | :--- |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional.| 07\04| [Link do Repositório](https://github.com/Danielmene12/SM5---Do-Clone-ao-Produto-M-nimo-Vi-vel/blob/main/README.md) ✅ Concluído |
 ---
 
+## 📫 Contato
+
+- **E-mail:** danielmenezes324@gmail.com
+- **LinkedIn:** [Daniel Menezes](https://www.linkedin.com/in/daniel-menezes-106b03321)
+- **GitHub:** [Danielmene12](https://github.com/Danielmene12)
+
+<p align="center">
+  <i>Construindo conhecimento, uma linha de código por vez.</i>
+</p>
